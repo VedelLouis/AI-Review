@@ -1,0 +1,5 @@
+{
+  "name": "AI-Review",
+  "description": "Un agent d'IA expert pour la revue de code automatisée, analysant les bugs, la sécurité, les performances et la lisibilité avec des recommandations concrètes.",
+  "requestFramePermissions": []
+}
